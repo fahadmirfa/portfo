@@ -1,6 +1,6 @@
 class Data {
   static const WEB_TITLE = "Fahad - Flutter App Developer";
-  static const NAME = "Fahad Ahmad Sultan";
+  static const NAME = "Fahad Ahmad";
   static const PHONE_NUMBER = "+923264303809";
   static const EMAIL = "mirzafahad14150@gmail.com";
   static const LOCATION = "Lahore, Pakistan";

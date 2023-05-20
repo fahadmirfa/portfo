@@ -87,7 +87,7 @@ class Navigation extends StatelessWidget {
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
-                      fontSize: 24,
+                      fontSize: 15,
                     ),
                   ),
                   SizedBox(width: 4),
